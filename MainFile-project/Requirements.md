@@ -16,13 +16,13 @@
 - Breadboard
 - LED
 - 220Ω Resistor
-- Jumper wires (for connections)
+-  wires (for connections)
 
 ---
 
 ## 🖼️ Preview
 
-![Preview](MainFile-project/images/Circuit-diagram.png)
+![Preview](gesture-led-control-project/MainFile-project/images/Circuit-diagram.png)
 
 
 ---
