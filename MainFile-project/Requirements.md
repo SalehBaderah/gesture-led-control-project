@@ -18,14 +18,7 @@
 - 220Ω Resistor
 -  wires (for connections)
 
----
 
-## 🖼️ Preview
-
-![Preview](gesture-led-control-project/MainFile-project/images/Circuit-diagram.png)
-
-
----
 
 ## 📂 Project Files
 
@@ -50,8 +43,17 @@
 
 3. **Connect the hardware** as shown below:
 
-   ![Circuit Diagram](MainFile-project/images/Circuit-diagram.png)
+ ![Image](https://github.com/user-attachments/assets/32e70806-d949-49ed-829a-e71a7d886b21))
 
 4. **Run the script:**
    ```bash
    python gesture-led-control.py
+
+  ---
+
+## 🖼️ Preview
+
+![Image](https://github.com/user-attachments/assets/ce57934d-8b1e-4431-aee5-08b7da787283)
+
+
+---
