@@ -20,7 +20,7 @@ A real-time gesture-LED-control project using **MediaPipe**, **OpenCV**, and **A
     
 
 ## 🖼️ Circuit diagram
-![Demo](demo.gif)
+
 
 
 
