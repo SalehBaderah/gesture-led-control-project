@@ -21,6 +21,7 @@ A real-time gesture-LED-control project using **MediaPipe**, **OpenCV**, and **A
 
 ## 🖼️ Circuit diagram
 
+![Circuit Diagram](images/Circuit-diagram.png)
 
 
 
@@ -28,3 +29,5 @@ A real-time gesture-LED-control project using **MediaPipe**, **OpenCV**, and **A
 -Detects hand gestures using MediaPipe
 -Sends signal to Arduino via Python
 -Turns LED on/off based on finger gestures
+
+![Demo](images/IMG_9533-ezgif.com-video-to-gif-converter.gif)
