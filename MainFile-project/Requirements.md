@@ -22,7 +22,7 @@
 
 ## 🖼️ Preview
 
-![Preview](MainFile-project/images/prev.gif)
+![Preview](MainFile-project/images/Circuit-diagram.png)
 
 
 ---
