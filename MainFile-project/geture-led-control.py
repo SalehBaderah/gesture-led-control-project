@@ -5,7 +5,7 @@ import pyfirmata2
 
 #Initialize Arduino board
 board = pyfirmata2.Arduino('COM6')
-ledPin = board.get_pin("d:6:o")  # (digital,pinNum,output)
+ledPin = board.get_pin("d:13:o")  # (digital,pinNum,output)
 
 #SETUP FOR WEBCAM CAPTURE
 width , height  = 600 , 400  
