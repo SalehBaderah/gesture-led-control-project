@@ -1,6 +1,6 @@
 # Gesture-Controlled LED
 
-A real-time gesture-LED-control project using **MediaPipe**, **OpenCV**, and **Arduino**.
+A real-time gesture-LED-control project using **Python** and **Arduino**.
 
 
 ## How IT Works
