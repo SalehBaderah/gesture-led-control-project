@@ -23,8 +23,7 @@
 ## 📂 Project Files
 
 - `gesture-led-control.py` — Python script for gesture detection & LED control
-- `images/Circuit-diagram.png` — Circuit layout
-- `images/prev.gif` — Project demo preview
+- `Mediapipe_landmarks.md` — Landmarks indexes
 
 ---
 
