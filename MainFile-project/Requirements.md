@@ -23,8 +23,7 @@
 ## 📂 Project Files
 
 - `gesture-led-control.py` — Python script for gesture detection & LED control
-- `Mediapipe_landmarks.md` — Landmarks indexes
-
+- `Mediapipe_landmarks.md` — Mediapipe Landmarks indexes
 ---
 
 ## ✅ Setup Instructions
