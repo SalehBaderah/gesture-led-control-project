@@ -1,6 +1,6 @@
-## 📦 Requirements
+##  Requirements
 
-### 🖥️ Software
+###  Software
 - **Python**  
   - `opencv-python` (for video capture & image processing)  
   - `mediapipe` (for hand detection & tracking)  
@@ -11,7 +11,7 @@
 
 ---
 
-### 🔌 Hardware
+###  Hardware
 - Arduino Uno
 - Breadboard
 - LED
@@ -20,7 +20,7 @@
 
 
 
-## 📂 Project Files
+##  Project Files
 
 - `gesture-led-control.py` — Python script for gesture detection & LED control
 - `Mediapipe_landmarks.md` — Mediapipe Landmarks indexes
@@ -49,7 +49,7 @@
 
   ---
 
-## 🖼️ Preview
+##  Preview
 
 ![Image](https://github.com/user-attachments/assets/ce57934d-8b1e-4431-aee5-08b7da787283)
 
