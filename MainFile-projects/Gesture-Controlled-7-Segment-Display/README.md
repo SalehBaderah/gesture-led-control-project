@@ -11,4 +11,4 @@ This project works by detecting the number of open fingers (0–5) and displayin
 
  
 ## Overview
-![Image](https://github.com/user-attachments/assets/c0602c65-b421-477e-a9b2-aac2c1655cab)
+<img src="https://github.com/user-attachments/assets/bcc5b11f-c516-4df5-ad49-2b3b78b2cf65" width="200">
