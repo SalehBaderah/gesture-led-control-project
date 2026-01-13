@@ -13,5 +13,4 @@ This project allows for the control of a simple LED light using hand tracking.
 ## Project 2: [Finger Counting with 7-Segment Display](https://github.com/SalehBaderah/gesture-led-control-project/tree/main/MainFile-projects/Gesture-Controlled-7-Segment-Display)
 
 This project detects the number of open fingers (0–5) and displays the corresponding number on a 7-segment display.
-
-<img src="https://github.com/user-attachments/assets/c0602c65-b421-477e-a9b2-aac2c1655cab" width="200">
+<img src="https://github.com/user-attachments/assets/bcc5b11f-c516-4df5-ad49-2b3b78b2cf65" width="200">
